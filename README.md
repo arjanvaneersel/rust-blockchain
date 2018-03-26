@@ -1,2 +1,2 @@
 # rust-blockchain
-Basic blockchain implementation written in Rust
+A very experimental implementation of a blockchain written in Rust.
